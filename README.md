@@ -4,11 +4,11 @@ My Cipher Program that I wrote in Highschool
 The Void Cipher program is one of my frist programs. Its a basic cipher program that encodes, and decodes messages. 
 Written in Java it carries out certain functions in the methods it has.
 
-***
+```pseudo
 1 - Convert ASCII Text to binary representation.
 2 - Use binary representation as a decimal representation as well.
 3 - Convert binary to Hexadecimal.
-***
+```
 
 These three steps are used to encode information and vice versa for decoding information.
 
@@ -17,7 +17,7 @@ Pseudo Code
 
 The psuedo code for the application works in the following respects:
 
-***
+```pseudo
 Open login window:
    Prompt: User
    Prompt: Password
@@ -30,7 +30,7 @@ Open login window:
 encode decode terminal
    Contains: Buttons to encode and decode messages
    Action-listeners on both elements open up either the encode, or the decode terminal.
-   
+```
   
 Decode and encode termainals follow the same construct as shown before to allow for processing messages in this way.
 
