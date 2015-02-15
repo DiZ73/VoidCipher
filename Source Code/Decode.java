@@ -28,7 +28,7 @@ public class Decode {
         frameenco.setVisible(true);
         frameenco.setSize(800, 400);
         
-       
+       // Access for gridbag constraints, GUI viewer.
         
         JPanel panel = new JPanel (new GridBagLayout ());
         frameenco.getContentPane().add(panel, BorderLayout.NORTH);
