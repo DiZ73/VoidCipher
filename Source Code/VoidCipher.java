@@ -21,7 +21,7 @@ public class VoidCipher {
         String user3 = "Tropicalblue";
         String user4 = "Boatmurderdorf";
 
-        String pass1 = "mattdavshare";
+        String pass1 = "ABT67"; // This password and Filmerd77 wont work.
         String pass2 = "ATP788";
         String pass3 = "GEA453";
         String pass4 = "FFS129";
