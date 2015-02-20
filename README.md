@@ -42,8 +42,8 @@ You will see a file in the main folder of this repo called <b>VoidCipher.jar</b>
 When running the file you will be prompted for a Username and password.
 Just enter the following:
 ```
-      | - > <b>Username</b>: TropicalBlue
-      | - > <b>Password</b>: GEA453
+      | - > Username: TropicalBlue
+      | - > Password: GEA453
 ```
 
 You must have the Java Development Kit installed, as well as the latest Java Runtime Environment for use.
