@@ -35,7 +35,7 @@ public class Encode {
         frameenco.setVisible(true);
         frameenco.setSize(800, 400);
         
-       
+       // User interface seperation from Logic.
         
         JPanel panel = new JPanel (new GridBagLayout ());
         frameenco.getContentPane().add(panel, BorderLayout.NORTH);
